@@ -1,0 +1,9 @@
+
+[{shop_url}] 
+
+{delivery_point}
+
+{order_data}
+
+{shop_name} [{shop_url}] 
+
